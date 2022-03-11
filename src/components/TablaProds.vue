@@ -22,7 +22,8 @@
             </tbody>
         </table>
         <p v-if="enCarro.length==0">No agregaste nada al carro aun</p>
-        <article class="derecha">
+        <article class="botonera">
+             <button class="btn btn-dark">Finalizar compra</button>
             <button class="btn btn-secondary">Regresar</button>
         </article>
     </section>
