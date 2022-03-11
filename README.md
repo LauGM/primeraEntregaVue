@@ -1,6 +1,5 @@
 # primera-entrega del proyecto final vue
-Realicé los componentes solicitados
-Avancé un poco sobre la logica básica
+Realicé los componentes solicitados y avancé un poco sobre la logica básica
 
 
 ## Project setup
