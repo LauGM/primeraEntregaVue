@@ -1,4 +1,7 @@
-# primera-entrega
+# primera-entrega del proyecto final vue
+Realicé los componentes solicitados
+Avancé un poco sobre la logica básica
+
 
 ## Project setup
 ```
